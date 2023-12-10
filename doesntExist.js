@@ -1,0 +1,1 @@
+console.log("Hmm... Seems like there isn't a script for this page...")
